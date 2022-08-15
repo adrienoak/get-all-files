@@ -41,12 +41,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrienoak/get-all-files.git"
+    "url": "git+https://github.com/adrienoak/get-all-files-in-path.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/adrienoak/get-all-files/issues"
+    "url": "https://github.com/adrienoak/get-all-files-in-path/issues"
   },
-  "homepage": "https://github.com/adrienoak/get-all-files#readme",
+  "homepage": "https://github.com/adrienoak/get-all-files-in-path#readme",
   "description": ""
 }
