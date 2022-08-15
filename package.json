@@ -1,7 +1,6 @@
 {
-  "name": "get-all-files",
-  "version": "0.1.0",
-  "description": "",
+  "name": "get-all-files-in-path",
+  "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -39,5 +38,15 @@
   },
   "dependencies": {
     "glob": "^8.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrienoak/get-all-files.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/adrienoak/get-all-files/issues"
+  },
+  "homepage": "https://github.com/adrienoak/get-all-files#readme",
+  "description": ""
 }
